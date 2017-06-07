@@ -1,0 +1,11 @@
+{
+  "name": "typescript-classes-vscode",
+  "version": "0.0.1",
+  "description": "Alguns exemplos práticos de classes com Typescript utilizando a compilação automática do VSCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Angelus",
+  "license": "ISC"
+}
